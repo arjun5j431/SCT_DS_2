@@ -25,17 +25,15 @@ Perform data cleaning and exploratory data analysis (EDA) on Netflix’s catalog
 
 ## Visuals
 
-### Movies vs TV Shows
-![Movies vs TV Shows](visuals/movies_vs_tvshows.png)
-
-### Content Growth Trend
+### Netflix Content Growth Over Years
 ![Content Growth](visuals/content_growth.png)
 
-### Top Producing Countries
+### Top 10 Countries Producing Netflix Content
 ![Top Countries](visuals/top_countries.png)
 
-### Top Genres
+### Top 10 Genres on Netflix
 ![Top Genres](visuals/top_genres.png)
 
-### Ratings Distribution
+### Top 10 Content Ratings on Netflix
 ![Ratings Distribution](visuals/ratings_distribution.png)
+
