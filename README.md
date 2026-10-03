@@ -22,3 +22,20 @@ Perform data cleaning and exploratory data analysis (EDA) on Netflix’s catalog
 - The United States leads in content production, followed by India and the UK.
 - International TV shows and dramas are the most common genres.
 - Ratings skew toward mature audiences (TV‑MA).
+
+## Visuals
+
+### Movies vs TV Shows
+![Movies vs TV Shows](visuals/movies_vs_tvshows.png)
+
+### Content Growth Trend
+![Content Growth](visuals/content_growth.png)
+
+### Top Producing Countries
+![Top Countries](visuals/top_countries.png)
+
+### Top Genres
+![Top Genres](visuals/top_genres.png)
+
+### Ratings Distribution
+![Ratings Distribution](visuals/ratings_distribution.png)
